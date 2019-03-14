@@ -1,0 +1,2 @@
+model_checkpoint_path: "mnist_classification-0"
+all_model_checkpoint_paths: "mnist_classification-0"
