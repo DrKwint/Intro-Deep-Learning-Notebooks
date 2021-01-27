@@ -22,6 +22,6 @@ conda activate tensorflow-env
 
 ### How to Run Hackathons in Jupyter
 
-Before running each hackathon, please download and run the corresponding `setup_hack##.sh` to setup all the requirements for the notebook. Then, you can upload each notebook to Crane and run/edit it as you like. Each hackathon has a homework at the bottom which you should submit to Canvas by the deadline indicated on the Canvas assignment.
+Before running each hackathon, please download and run the corresponding `setup_hack##.sh` to setup all the requirements for the notebook. Then, you can upload each notebook to Crane and run/edit it as you like. Make sure you set the kernel to `Python (tensorflow-env)` or to your custom kernel. Each hackathon has a homework at the bottom which you should submit to Canvas by the deadline indicated on the Canvas assignment.
 
 Let us know by email, in office hours, or on Piazza if you run into any problems.
