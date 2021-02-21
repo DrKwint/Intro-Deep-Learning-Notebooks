@@ -1,4 +1,4 @@
-## Spring 2020 CSE 479/879 Hackathons
+## Spring 2021 CSE 479/879 Hackathons
 
 Welcome! This page will host all the hackathons for the Spring 2020 semester. This readme will guide you through getting the Hackathons up and running. Please ask me if you've got any questions or suggestions, and I hope you have a great semester. \-Ellie
 
@@ -22,6 +22,6 @@ conda activate tensorflow-env
 
 ### How to Run Hackathons in Jupyter
 
-Before running each hackathon, please download and run the corresponding `setup_hack##.sh` to setup all the requirements for the notebook. Then, you can upload each notebook to Crane and run/edit it as you like. Each hackathon has a homework at the bottom which you should submit to Canvas by the deadline indicated on the Canvas assignment.
+Before running each hackathon, please download and run the corresponding `setup_hack##.sh` to setup all the requirements for the notebook. Then, you can upload each notebook to Crane and run/edit it as you like. Make sure you set the kernel to `Python (tensorflow-env)` or to your custom kernel. Each hackathon has a homework at the bottom which you should submit to Canvas by the deadline indicated on the Canvas assignment.
 
 Let us know by email, in office hours, or on Piazza if you run into any problems.
